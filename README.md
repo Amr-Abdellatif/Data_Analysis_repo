@@ -1,6 +1,6 @@
 # Data_Analysis_repo
 
-## I showcase my visulaizations capabilities in this repo using different softwares 
+## I showcase my visulaizations capabilities in this repo using different softwares along with some projects with reports that i've worked on previously.
 
 ![1st](https://user-images.githubusercontent.com/92921252/220151782-a51d8ec4-aaef-458f-9351-8f5e3c658f38.JPG)
 
